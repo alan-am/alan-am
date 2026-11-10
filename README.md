@@ -30,17 +30,52 @@ Soy estudiante de **Computación en la Escuela Superior Politécnica del Litoral
 
 ## 🛠️ Tecnologías y Herramientas
 
+**Lenguajes**<br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+**Frameworks y librerías**<br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+
+**Bases de datos**<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/H2_Database-0000BB?style=for-the-badge&logo=databricks&logoColor=white" alt="H2 Database" />
+
+**Cloud, DevOps y herramientas**<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+
+### 📚 Tecnologías aprendidas en el curso
+
+| Tecnología | Qué es | Cómo la aplico |
+|------------|--------|----------------|
+| **HTML5** | Lenguaje de marcado que define la estructura de una página web | Maquetación semántica de páginas y de las vistas web del proyecto *Clínica Odontológica* |
+| **CSS3** | Hojas de estilo para diseño visual, layouts (Flexbox/Grid) y diseño responsivo | Estilos y adaptación a móviles de las interfaces que construyo |
+| **JavaScript** | Lenguaje que agrega interactividad y consume APIs desde el navegador | Manipulación del DOM y llamadas `fetch` a las APIs REST de mis backends en Spring Boot |
+| **TypeScript** | Superconjunto de JavaScript con tipado estático | Detecta errores en tiempo de desarrollo y documenta los datos que intercambian frontend y backend |
+| **React** | Librería para construir interfaces basadas en componentes reutilizables | Desarrollo de interfaces dinámicas en las prácticas del curso, separando la UI en componentes y manejando estado |
+
+### ⚙️ Stack con el que construyo mis proyectos
+
+| Tecnología | Para qué la uso | Dónde la apliqué |
+|------------|-----------------|------------------|
+| **Java** | Programación orientada a objetos y lógica de negocio | YuGiOh_Java, SoundKeeper, Clínica Odontológica |
+| **Spring Boot** | Creación de APIs REST con arquitectura MVC y acceso a datos con Spring Data JPA | SoundKeeper, Clínica Odontológica |
+| **MySQL** | Base de datos relacional para persistir usuarios, productos y reservas | SoundKeeper |
+| **H2 Database** | Base de datos en memoria para desarrollo y pruebas rápidas | Clínica Odontológica |
+| **Python** | Implementación de algoritmos y scripts | rsa-SecureTxt (algoritmo de cifrado RSA) |
+| **Git y GitHub** | Control de versiones, trabajo en equipo con ramas y Pull Requests | Todos mis proyectos, incluido este perfil |
+| **Jira y Figma** | Organización de tareas con metodologías ágiles y prototipado de interfaces | Proyectos universitarios en equipo |
 
 ## 📍 Proyectos destacados
 
