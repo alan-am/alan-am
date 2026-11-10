@@ -153,8 +153,26 @@ Soy estudiante de **Computación en la Escuela Superior Politécnica del Litoral
 </tr>
 </table>
 
-## 🌱 Stats
+## 📊 Actividad en GitHub
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alan-am&theme=tokyonight&hide_border=true" width="85%" alt="Racha de contribuciones en GitHub" />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=alan-am&theme=tokyonight&hide_border=true&locale=es" width="49%" alt="Racha de contribuciones de alan-am en GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-am&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" alt="Lenguajes más usados por alan-am en GitHub" />
+
+</div>
+
+## 📫 Contacto
+
+<div align="center">
+
+<a href="mailto:alan.aguilardev@gmail.com"><img src="https://img.shields.io/badge/Gmail-alan.aguilardev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo: alan.aguilardev@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/aguilar-alan/"><img src="https://img.shields.io/badge/LinkedIn-aguilar--alan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: aguilar-alan" /></a>
+<a href="https://github.com/alan-am"><img src="https://img.shields.io/badge/GitHub-alan--am-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: alan-am" /></a>
+
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=alan-am&label=Visitas%20al%20perfil&color=7aa2f7&style=flat-square" alt="Contador de visitas al perfil" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%" alt="" />
