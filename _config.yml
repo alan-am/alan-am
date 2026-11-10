@@ -1,0 +1,9 @@
+# Configuración de GitHub Pages para el portafolio
+title: Alan Aguilar
+description: Estudiante de Computación en la ESPOL · Backend · Agentes de IA · DevOps
+theme: jekyll-theme-cayman
+lang: es
+
+# Archivos que no deben publicarse en el sitio
+exclude:
+  - linkedin.svg

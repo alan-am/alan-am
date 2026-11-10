@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Estudiante+de+Computaci%C3%B3n+en+la+ESPOL+%F0%9F%87%AA%F0%9F%87%A8;Desarrollador+Backend+con+Java+y+Spring+Boot;Explorando+Agentes+de+IA+y+cultura+DevOps" alt="Texto animado: Estudiante de Computación en la ESPOL, Desarrollador Backend con Java y Spring Boot, Explorando Agentes de IA y cultura DevOps" />
 </a>
 
+<br>
+
+<a href="https://alan-am.github.io/alan-am/"><img src="https://img.shields.io/badge/Portafolio-GitHub_Pages-7aa2f7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver portafolio en GitHub Pages" /></a>
+
 </div>
 
 ## 👋 Hola, soy Alan
