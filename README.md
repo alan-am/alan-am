@@ -79,10 +79,79 @@ Soy estudiante de **Computación en la Escuela Superior Politécnica del Litoral
 
 ## 📍 Proyectos destacados
 
-- [**rsa-SecureTxt**](https://github.com/alan-am/rsa-SecureTxt) — Plataforma de cifrado de archivos .txt con RSA simple.
-- [**YuGiOh_Java**](https://github.com/alan-am/YuGiOh_Java) — Recreación lógica del juego de cartas de YuGiOh.
-- [**SoundKeeper**](https://github.com/LeslieZT/G3_PI_Backend) — Página web para la compra y renta de instrumentos musicales.
-- [**Backend Clínica Odontológica**](https://github.com/alan-am/Clinica_odontologica_backend) — Backend y CRUD en Java para una clínica odontológica.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎸 [SoundKeeper](https://github.com/LeslieZT/G3_PI_Backend)
+**Problema:** los músicos necesitan una forma sencilla de encontrar y reservar instrumentos sin comprarlos.
+
+**Qué hace:** página web de reservas de instrumentos musicales, desarrollada en equipo.
+- Catálogo de instrumentos disponibles.
+- Gestión de reservas por fechas.
+- API REST que conecta el frontend con la base de datos.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+
+[📂 Ver repositorio](https://github.com/LeslieZT/G3_PI_Backend)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [rsa-SecureTxt](https://github.com/alan-am/rsa-SecureTxt)
+**Problema:** entender cómo funciona en la práctica la criptografía de clave pública.
+
+**Qué hace:** proyecto universitario que simula el cifrado RSA de documentos `.txt`.
+- Generación de claves pública y privada.
+- Cifrado de archivos de texto con la clave pública.
+- Descifrado con la clave privada para recuperar el contenido original.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Criptograf%C3%ADa-RSA-7aa2f7?style=flat-square" alt="Criptografía RSA" />
+
+[📂 Ver repositorio](https://github.com/alan-am/rsa-SecureTxt)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦷 [Backend Clínica Odontológica](https://github.com/alan-am/Clinica_odontologica_backend)
+**Problema:** una clínica necesita registrar y consultar la información de sus pacientes, odontólogos y turnos.
+
+**Qué hace:** backend con operaciones CRUD sobre las entidades típicas de una clínica.
+- API REST con arquitectura MVC.
+- Persistencia con Spring Data JPA.
+- Vistas web sencillas con HTML y JavaScript.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/H2-0000BB?style=flat-square" alt="H2 Database" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+
+[📂 Ver repositorio](https://github.com/alan-am/Clinica_odontologica_backend)
+
+</td>
+<td width="50%" valign="top">
+
+### 🃏 [YuGiOh_Java](https://github.com/alan-am/YuGiOh_Java)
+**Problema:** aplicar la programación orientada a objetos a un sistema con reglas complejas.
+
+**Qué hace:** recreación de la lógica del juego de cartas YuGiOh, hecha en equipo (*Los_POOlitecnicos*) y pensada para una futura versión gráfica en Android.
+- Modelado de cartas, jugadores y turnos con clases.
+- Uso de herencia, polimorfismo y encapsulamiento.
+- Simulación de partidas con las reglas del juego.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/POO-Programaci%C3%B3n_Orientada_a_Objetos-2e3c64?style=flat-square" alt="Programación Orientada a Objetos" />
+
+[📂 Ver repositorio](https://github.com/alan-am/YuGiOh_Java)
+
+</td>
+</tr>
+</table>
 
 ## 🌱 Stats
 
